@@ -1,6 +1,6 @@
-# Simulador De Contratacao
+# Demonstração — Simulador de custo de contratação
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de simulador de custo de contratação — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Clientes pedem o custo real de contratar um funcionário e o cálculo manual é demorado.
